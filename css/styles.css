@@ -91,14 +91,15 @@ margin-top: 2%;
 }
 
 .btndiv{
-    padding: 0.25%;
+        padding: 10px;
     border: #11999E;
     margin: auto;
-    width:10%;
-    background-color:#66BFBF;
+    width: 20%;
+    background-color: #66BFBF;
     border-radius: 8px;
     color: white;
     margin-bottom: 3%;
+    text-align: center;
 }
 
 a{
